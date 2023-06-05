@@ -1,0 +1,166 @@
+Write an oncological clinical visit summary note about a 54-year-old White female patient named Ms. Cinda Jaskolski who presents for Her cancer treatment.  The patient's current primary diagnoses are Small cell carcinoma of lung and Primary small cell malignant neoplasm of lung, TNM stage 1. She was first diagnosed 7 days ago. 
+
+Patient: Ms. Cinda Jaskolski, 54-year-old White female
+
+Chief Complaint: Cancer treatment
+
+History of Present Illness: Ms. Jaskolski was diagnosed with small cell carcinoma of the lung and primary small cell malignant neoplasm of the lung, TNM stage 1, 7 days ago. She presents today for her first oncological clinical visit.
+
+Past Medical History: Ms. Jaskolski has a history of hypertension and hyperlipidemia. She has no history of cancer or other major illnesses.
+
+Medications: Ms. Jaskolski is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.
+
+Allergies: No known drug allergies.
+
+Social History: Ms. Jaskolski is a non-smoker and does not drink alcohol. She is married and has two adult children.
+
+Physical Examination: Ms. Jaskolski appears well-nourished and in no acute distress. Vital signs are within normal limits. Lung examination reveals decreased breath sounds in the right upper lobe. No other significant findings are noted.
+
+Assessment and Plan: Ms. Jaskolski has been diagnosed with small cell carcinoma of the lung and primary small cell malignant neoplasm of the lung, TNM stage 1. She will undergo further staging studies, including a PET scan and brain MRI. Treatment options will be discussed with the patient, including chemotherapy and radiation therapy. Referral to a pulmonologist and radiation oncologist will be made. Follow-up will be scheduled in 2 weeks to discuss treatment options and review staging studies.
+
+-----------------------------------
+
+Detailed prompt:
+Write an oncological clinical visit summary note about a 54-year-old White female patient named Ms. Cinda Jaskolski who presents for Her cancer treatment. The patient's current primary diagnoses are Small cell carcinoma of lung and Primary small cell malignant neoplasm of lung, TNM stage 1. She was first diagnosed 6 months ago. She has a history of Normal pregnancy, Acute bronchitis, and Viral sinusitis. She has also recently experienced Hypertension, Prediabetes, Anemia, Hyperlipidemia, Osteoarthritis of hip, and Suspected lung cancer. Be varied and creative with the values you put in; don't use generic placeholders like "John Doe". Do *not* just use standard placeholder values for Her vitals like "98.6°F".
+
+--------------
+Non-augmented:
+
+Patient Name: Ms. Cinda Jaskolski
+Age: 54 years
+Gender: Female
+Date of Visit: 10/15/2021
+
+Chief Complaint:
+The patient presents with a history of small cell carcinoma of the lung and primary small cell malignant neoplasm of the lung, TNM stage 1. She was first diagnosed 6 months ago.
+
+History of Present Illness:
+Ms. Jaskolski reports experiencing shortness of breath, cough, and chest pain for the past 6 months. She also reports a recent weight loss of 10 pounds. She has been receiving chemotherapy and radiation therapy for the past 4 months.
+
+Past Medical History:
+Ms. Jaskolski has a history of normal pregnancy, acute bronchitis, and viral sinusitis. She has also recently experienced hypertension, prediabetes, anemia, hyperlipidemia, osteoarthritis of the hip, and suspected lung cancer.
+
+Medications:
+Ms. Jaskolski is currently taking the following medications:
+- Carboplatin
+- Etoposide
+- Dexamethasone
+- Furosemide
+- Lisinopril
+- Metformin
+- Ferrous sulfate
+- Atorvastatin
+- Acetaminophen
+
+Allergies:
+Ms. Jaskolski reports no known allergies.
+
+Vital Signs:
+- Blood pressure: 130/80 mmHg
+- Heart rate: 90 bpm
+- Respiratory rate: 20 breaths per minute
+- Temperature: 98.4Â°F
+- Oxygen saturation: 95% on room air
+
+Physical Examination:
+Ms. Jaskolski appears fatigued and has a reduced range of motion in her left hip due to osteoarthritis. Lung auscultation reveals decreased breath sounds in the left lung. No other significant findings were noted.
+
+Assessment:
+Ms. Jaskolski has small cell carcinoma of the lung and primary small cell malignant neoplasm of the lung, TNM stage 1. She is currently receiving chemotherapy and radiation therapy. She also has a history of hypertension, prediabetes, anemia, hyperlipidemia, and osteoarthritis of the hip.
+
+Plan:
+Ms. Jaskolski will continue with her current chemotherapy and radiation therapy regimen. She will also receive supportive care for her anemia and osteoarthritis. Follow-up appointments will be scheduled to monitor her progress and adjust her treatment plan as needed.
+
+--------------
+Augmented:
+
+Patient Name: Ms. Cinda Jaskolski
+Age: 54 years
+Gender: Female
+Date of Visit: 10/15/2021
+Chief Complaint:
+The patient presents with a history of small cell carcinoma of the lung and primary small cell malignant neoplasm of the lung, TNM stage 1. She was first diagnosed 6 months ago.
+History of Present Illness:
+Ms. Jaskolski reports experiencing shortness of breath, cough, and chest pain for the past 6 months. She also reports a recent weight loss of 10 pounds. She has been receiving chemotherapy and radiation therapy for the past 4 months.
+Past Medical History:
+Ms. Jaskolski has a history of normal pregnancy, acute bronchitis, and viral sinusitis. She has also recently experienced hypertension, prediabetes, anemia, hyperlipidemia, osteoarthritis of the hip, and suspected lung cancer.
+History
+Primary small cell malignant neoplasm of lung, TNM stage 1
+Small cell carcinoma of lung
+Hypertension
+Osteoarthritis of hip
+Hyperlipidemia
+Suspected lung cancer
+Anemia
+Prediabetes
+Viral sinusitis
+Normal pregnancy
+Acute bronchitis
+Labs:  Glucose: 92.03 mg/dL  Creatinine: 3.3365 mg/dL  Sodium: 139.63 mmol/L  Chloride: 106.54 mmol/L  Glomerular filtration rate/1.73 sq M.predicted: 83.61 mL/min  Albumin [Mass/volume] in Serum or Plasma: 4.8817 g/dL  Bilirubin.total [Mass/volume] in Serum or Plasma: 0.88329 mg/dL  Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 24.857 U/L  Total Cholesterol: 153.92 mg/dL  Low Density Lipoprotein Cholesterol: 136.22 mg/dL
+Medications:
+Ms. Jaskolski is currently taking the following medications:
+- Carboplatin
+- Etoposide
+- Dexamethasone
+- Furosemide
+- Lisinopril
+- Metformin
+- Ferrous sulfate
+- Atorvastatin
+- Acetaminophen
+Allergies:
+Ms. Jaskolski reports no known allergies.
+Vital Signs:
+- Blood pressure: 130/80 mmHg
+- Heart rate: 90 bpm
+- Respiratory rate: 20 breaths per minute
+- Temperature: 98.4Â°F
+- Oxygen saturation: 95% on room air
+Physical Examination:
+Ms. Jaskolski appears fatigued and has a reduced range of motion in her left hip due to osteoarthritis. Lung auscultation reveals decreased breath sounds in the left lung. No other significant findings were noted.
+Assessment:
+Ms. Jaskolski has small cell carcinoma of the lung and primary small cell malignant neoplasm of the lung, TNM stage 1. She is currently receiving chemotherapy and radiation therapy. She also has a history of hypertension, prediabetes, anemia, hyperlipidemia, and osteoarthritis of the hip.
+Plan:
+Ms. Jaskolski will continue with her current chemotherapy and radiation therapy regimen. She will also receive supportive care for her anemia and osteoarthritis. Follow-up appointments will be scheduled to monitor her progress and adjust her treatment plan as needed.
+
+----------------
+
+Synthea note: Cinda Jaskolski, 1979-11-01
+
+1979-11-01
+
+# Chief Complaint
+- Cough
+- Chest Pain
+
+
+# History of Present Illness
+Cinda869
+ is a 54 year-old non-hispanic white female. Patient has a history of normal pregnancy, acute bronchitis (disorder), part-time employment (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; acetaminophen 325 mg oral tablet; simvastatin 10 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; hydrochlorothiazide 25 mg oral tablet; etoposide 100 mg injection; amlodipine 2.5 mg oral tablet; mestranol / norethynodrel [enovid]; norinyl 1+50 28 day pack; cisplatin 50 mg injection
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- hearing examination (procedure)
+- combined chemotherapy and radiation therapy (procedure)
+- high resolution computed tomography of chest without contrast (procedure)
+The patient was prescribed the following medications:
+- cisplatin 50 mg injection
+- etoposide 100 mg injection

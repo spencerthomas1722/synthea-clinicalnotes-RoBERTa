@@ -1,0 +1,13 @@
+***** Eval results  *****
+05/09/2023 04:59:50 - INFO - __main__ -     f1 = 0.8035843562476874
+05/09/2023 04:59:50 - INFO - __main__ -     loss = 0.2540014392992617
+05/09/2023 04:59:50 - INFO - __main__ -     precision = 0.8056971417510808
+05/09/2023 04:59:50 - INFO - __main__ -     recall = 0.8014826225089053
+
+peak @ 1500:
+05/09/2023 04:38:23 - INFO - __main__ -   ***** Eval results 1500 *****
+05/09/2023 04:38:23 - INFO - __main__ -     f1 = 0.8444444444444446
+05/09/2023 04:38:23 - INFO - __main__ -     loss = 0.1705516718684861
+05/09/2023 04:38:23 - INFO - __main__ -     precision = 0.8417721518987342
+05/09/2023 04:38:23 - INFO - __main__ -     recall = 0.8471337579617835
+05/09/2023 04:38:26 - INFO - __main__ -   Loading features from cached file ../data/tasks/i2b2/merged/cached_dev_roberta-trained-on-synth-mlm_512
